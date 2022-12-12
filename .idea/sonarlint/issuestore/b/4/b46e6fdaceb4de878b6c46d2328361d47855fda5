@@ -1,0 +1,31 @@
+
+vtypescript:S5843*"TSimplify this regular expression to reduce its complexity from 88 to the 20 allowed.(úßÕ+8ö¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x01.(úßÕ+8÷¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x08.(úßÕ+8Ÿ¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0b.(úßÕ+8⁄¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0c.(úßÕ+8€¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0e.(úßÕ+8ﬁ¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x1f.(úßÕ+8ﬂ¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x01.(úßÕ+8‡¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x09.(úßÕ+8·¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0b.(úßÕ+8·¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0c.(úßÕ+8‚¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0e.(úßÕ+8„¡·î–0
+]typescript:S6353*";Use concise character class syntax '\d' instead of '[0-9]'.(úßÕ+8‰¡·î–0
+]typescript:S6353*";Use concise character class syntax '\d' instead of '[0-9]'.(úßÕ+8Â¡·î–0
+]typescript:S6353*";Use concise character class syntax '\d' instead of '[0-9]'.(úßÕ+8Ê¡·î–0
+]typescript:S6353*";Use concise character class syntax '\d' instead of '[0-9]'.(úßÕ+8Á¡·î–0
+]typescript:S6353*";Use concise character class syntax '\d' instead of '[0-9]'.(úßÕ+8Ë¡·î–0
+]typescript:S6353*";Use concise character class syntax '\d' instead of '[0-9]'.(úßÕ+8È¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x01.(úßÕ+8Î¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x08.(úßÕ+8Ï¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0b.(úßÕ+8Ï¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0c.(úßÕ+8Ì¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0e.(úßÕ+8Ì¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x1f.(úßÕ+8Ó¡·î–0
+Ltypescript:S5869*"*Remove duplicates in this character class.(úßÕ+8Ó¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x01.(úßÕ+8Ô¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x09.(úßÕ+8Ô¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0b.(úßÕ+8¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0c.(úßÕ+8Ò¡·î–0
+Ftypescript:S6324*"$Remove this control character: \x0e.(úßÕ+8Ú¡·î–0

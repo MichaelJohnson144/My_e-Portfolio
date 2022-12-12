@@ -1,0 +1,26 @@
+.scrollbar::-webkit-scrollbar {
+    @apply
+    sm:w-3.5
+    sm:h-3.5;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+    @apply
+    sm:bg-transparent-carbon-black-70
+    sm:rounded-none;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+    @apply
+    sm:hover:bg-gradient-to-r
+    sm:hover:from-pink-600
+    sm:hover:to-pink-500
+    sm:bg-clip-content
+    sm:bg-gradient-to-r
+    sm:from-pink-500
+    sm:to-pink-400
+    sm:rounded-full
+    sm:border-[5px] sm:border-4
+    sm:border-transparent
+    sm:border-solid;
+}
