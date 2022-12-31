@@ -13,10 +13,4 @@ describe('MenuItem component', function () {
     const link: HTMLAnchorElement = screen.getByText('testLabel');
     expect(link.href).toBeTruthy();
   });
-
-  it('should add a target if a href is passed successfully', function () {
-    render(<MenuItem item={{ link: 'test-link', label: 'testLabel', href: '/' }} />);
-    const link: HTMLAnchorElement = screen.getByText('testLabel');
-    expect(link.target).toBe('_blank');
-  });
 });

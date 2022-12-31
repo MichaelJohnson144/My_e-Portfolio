@@ -15,8 +15,6 @@ export default function MenuItem({ item }: MenuItemProps) {
     <li>
       <Link
         href={item.href ? item.href : `/${item.link}`}
-        title={item.label}
-        target={item.href ? '_blank' : ''}
         className={
           'hover:text-white hover:bg-gradient-to-r hover:from-pink-400 hover:to-pink-600 rounded-[0.25rem] sm:rounded-md hover:animate-pulse inline-block py-1 sm:py-1.5 px-2.5 sm:px-3 my-1.5 mx-2 text-base sm:text-lg font-bold'
         }
